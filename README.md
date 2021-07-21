@@ -1,0 +1,2 @@
+# Semantic-analysis-using-wordnet
+The data has been preprocessed by using various NLP techniques like Word Tokenization, Stopwords removal and Part of speech tagging. The probability of the match was predicted by using 2 semantic measures namely Path Similarity and Wu &amp; Palmer similarity. The final solution for the custom challenge can be predicted by mapping it with the corresponding challenge in the Admin database.
